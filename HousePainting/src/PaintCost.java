@@ -5,7 +5,7 @@ public class PaintCost {
 		/*
 		 * This program is will calculate the cost to paint a house  
 		 */
-		double houseLengthFeet;
+		double houseLengthFeet =   
 		double houseWidthFeet;
 		double houseHeightFeet; 
 		double windowLengthFeet;
@@ -15,6 +15,7 @@ public class PaintCost {
 		double doorWidthFeet;
 		int doornumber;
 		double inches;
+		double feet;
 		
 	}
 
